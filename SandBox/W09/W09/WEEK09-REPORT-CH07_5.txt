@@ -1,0 +1,24 @@
+ZCZC ===== Chapter 07_5 =====  Week 09 =====
+ZCZC pwd /home/Hori75/git/os211quiz/SandBox/W09/W09
+ZCZC date 210522-2313
+ZCZC hostname Hori75
+ZCZC username Hori75
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn Hori75W09 Hori75 1405-7CF4 Verified
+ZCZC MaxLFS 3081M
+ZCZC MaxROOT 2749M
+ZCZC MaxMemory 137M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 138M
+ZCZC MaxMemory 144M
+ZCZC MaxMemory 145M
+ZCZC MaxMemory 146M
+ZCZC verifyTokenn Hori75W09 Hori75 1507-B938 Verified
+ZCZC MaxMemory 147M
+ZCZC verifyTokenn Hori75W09 Hori75 1609-C74F Verified
+ZCZC verifyTokenn Hori75W09 Hori75 1710-F674 Verified
+ZCZC verifyTokenn Hori75W09 Hori75 1812-9CE0 Verified
+ZCZC verifyTokenn Hori75W09 Hori75 1913-B6EE Verified
